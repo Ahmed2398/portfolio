@@ -293,6 +293,7 @@ img {
   width: 120px;
 }
 .home__img {
+  width:100%;
 }
 .home__data {
   grid-column: 1/3;
